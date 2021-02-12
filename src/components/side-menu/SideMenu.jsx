@@ -9,7 +9,7 @@ const useStyles = makeStyles({
       height: '100%',
       display: 'flex',
       flexDirection: 'column',
-      backgroundColor: '#423E37',
+      backgroundColor: '#253053',
       color: '#EDEBD7',
    }
 })
